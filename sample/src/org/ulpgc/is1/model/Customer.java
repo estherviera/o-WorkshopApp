@@ -9,7 +9,6 @@ public class Customer {
         this.name = name;
         this.phone = phone;
     }
-    // prueba
 
     public String getName() {
         return name;
